@@ -21,7 +21,7 @@
 
 Direct downloads for specific platforms can be found below.
 
-- *[Windows \(32-bit and 64-bit\)](https://github.com/dienstagxd/UltimMC/actions/runs/38044096541/artifacts/11667321276)*.
+- *[Windows \(32-bit and 64-bit\)](https://github.com/dienstagxd/UltimMC/actions/runs/38044096541/artifacts/11666582046)*.
 
 - *[Linux (64-bit)](https://github.com/dienstagxd/UltimMC/actions/runs/38044096541/artifacts/11667321276)*.
 
