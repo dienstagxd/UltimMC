@@ -21,11 +21,11 @@
 
 Direct downloads for specific platforms can be found below.
 
-- *[Windows \(32-bit and 64-bit\)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip)*.
+- *[Windows \(32-bit and 64-bit\)]([https://github.com/dienstagxd/UltimMC/actions/runs/38044096541/artifacts/11667321276])*.
 
-- *[Linux (64-bit)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-lin64.zip)*.
+- *[Linux (64-bit)](https://github.com/dienstagxd/UltimMC/actions/runs/38044096541/artifacts/11667321276)*.
 
-- *[macOS (10.14 and newer)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip)*.
+- *[macOS (10.14 and newer) Currently not avadible due to GitHub workflow issues*.
 
 > [!NOTE]
 > In the case you're using macOS then another additional step you might need to do
