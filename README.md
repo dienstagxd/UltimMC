@@ -7,7 +7,7 @@
 </p>
 
 > [!IMPORTANT]
-> This is a fork used in order to rerun the expired Artifacts
+> This is a fork used in order to rerun the expired Artifacts </br> <br>
 > This project is a **fork** of MultiMC. </br> </br>
 > This software is provided without any warranty, so please don't contact the main
 > MultiMC developers in case anything goes wrong using this launcher. </br> </br>
