@@ -7,7 +7,7 @@
 </p>
 
 > [!IMPORTANT]
-> This fork is currently being worked on by one person in their free time due to the original developers not working on it anymore </br> <br> 
+> This fork is currently being worked on by one person in their free time due to the original developers not working on it anymore (expect low maintenance) </br> <br> 
 > This is a fork used in order to rerun the expired Artifacts </br> <br>
 > This project is a **fork** of MultiMC. </br> </br>
 > This software is provided without any warranty, so please don't contact the main
